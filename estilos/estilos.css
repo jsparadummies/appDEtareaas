@@ -584,7 +584,7 @@ gap: 15px;
 
 
     /*aqui comienza el media query*/
-@media (min-width: 375px)and (max-width: 1444px) {
+@media (min-width: 500px)and (max-width: 1444px) {
 
     .primer-container{
         width: 100%;
